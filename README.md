@@ -51,4 +51,4 @@ supermarket_dashboard/
 ---
 
 ## Screenshot
-
+![screenshot](ss.png)
